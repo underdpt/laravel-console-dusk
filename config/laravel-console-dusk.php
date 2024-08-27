@@ -11,7 +11,8 @@ return [
     */
     'paths' => [
         'screenshots' => storage_path('laravel-console-dusk/screenshots'),
-        'log'         => storage_path('laravel-console-dusk/log'),
+        'log' => storage_path('laravel-console-dusk/log'),
+        'source' => storage_path('laravel-console-dusk/source'),
     ],
 
     /*
