@@ -16,8 +16,8 @@
     "require": {
         "php": "^8.2",
         "laravel/dusk": "^8.2",
-        "illuminate/console": "^11.4",
-        "illuminate/support": "^11.4",
+        "illuminate/console": "^10.0|^11.4",
+        "illuminate/support": "^10.0|^11.4",
         "nunomaduro/laravel-console-task": "^1.9"
     },
     "require-dev": {
